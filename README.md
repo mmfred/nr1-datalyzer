@@ -4,7 +4,7 @@
 
 ## Usage
 
-The Datalyzer enables a user to explore, slice and dice event and metric
+The Datalyzer app enables a user to explore, slice and dice event and metric
 data in NRDB in a simple, fast and intuitive way.
 
 ![screenshot](./screenshots/screenshot.png)
